@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/itsujjawalbh" target="blank"><img src="https://img.shields.io/twitter/follow/itsujjawalbh?logo=twitter&style=for-the-badge" alt="itsujjawalbh" /></a> </p>
 
-- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
+- 🌱 I’m currently Working on **MERN STACK**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
