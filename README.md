@@ -1,8 +1,5 @@
 # Ujjawal Sharma
 
-<p align="center">
-  <img src="https://github.com/ujjawalb01.png" width="125" height="125" alt="Ujjawal Sharma" />
-</p>
 
 <h3 align="center">Full Stack Developer | MERN Stack | Agentic AI</h3>
 
