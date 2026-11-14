@@ -1,9 +1,13 @@
 # Ujjawal Sharma
 
-<h3 align="center">Full Stack Developer · MERN Stack · Agentic AI</h3>
+<p align="center">
+  <img src="https://github.com/ujjawalb01.png" width="125" height="125" alt="Ujjawal Sharma" />
+</p>
+
+<h3 align="center">Full Stack Developer | MERN Stack | Agentic AI</h3>
 
 <p align="center">
-  Building practical web applications and exploring intelligent AI-powered solutions.
+  Building web applications, developing backend systems, and exploring AI-powered solutions.
 </p>
 
 <p align="center">
@@ -13,67 +17,81 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ujjawalb01&style=flat-square&color=64748b&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=ujjawalb01&style=flat-square&color=64748b&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ---
 
-### ABOUT
+## ABOUT ME
 
-I'm a Full Stack Developer with a focus on developing responsive web applications, designing REST APIs, and building reliable backend systems.
+I'm a Full Stack Developer focused on building responsive web applications, designing REST APIs, and developing reliable backend systems.
 
-My primary stack is MongoDB, Express.js, React.js and Node.js. Alongside full-stack development, I'm exploring Generative AI and agentic workflows using LangChain, LangGraph and Google Gemini.
+My primary technology stack is MongoDB, Express.js, React.js, and Node.js. Alongside full-stack development, I'm exploring Generative AI and agentic workflows using LangChain, LangGraph, and Google Gemini.
 
-- Currently exploring agentic AI and backend engineering.
-- Interested in scalable applications and clean software architecture.
-- Experienced in building and integrating RESTful APIs.
-- Open to software development opportunities and open-source collaboration.
+- 💻 Focused on Full Stack and Backend Development.
+- 🤖 Exploring Agentic AI and LLM-powered applications.
+- 🌱 Continuously learning software architecture and scalable systems.
+- 🤝 Interested in Open Source and collaborative development.
+- 📫 Reach me at **ujjawalsharma507@gmail.com**
 
 ---
 
-### SELECTED PROJECTS
+## EXPERIENCE
+
+**Full Stack Developer Intern — MKT Software**
+
+`July 2025 – August 2025`
+
+- Developed full-stack web applications using the MERN stack.
+- Built responsive React interfaces integrated with REST APIs.
+- Implemented CRUD operations, authentication, and MongoDB interactions.
+- Debugged and optimized applications using Git and GitHub.
+
+---
+
+## FEATURED PROJECTS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>01. PrepAI</h3>
+### 01. PrepAI
 
-AI Interview Preparation Platform
+**AI Interview Preparation Platform**
 
-An AI-powered platform for personalized interview preparation.
+An AI-powered interview preparation platform providing personalized practice experiences.
 
-- Dynamic question generation
-- Interview simulations
+- Dynamic interview question generation
+- Personalized interview simulations
 - AI-generated feedback and reports
 - Role-based question sets
 
-**Stack:** MERN · LangChain · Gemini
+**Tech:** MERN · LangChain · Gemini
 
 </td>
 <td width="50%" valign="top">
 
-<h3>02. BlogSphere</h3>
+### 02. BlogSphere
 
-Blogging & Social Platform
+**Blogging & Social Platform**
 
-A full-stack platform for creating and interacting with blog content.
+A full-stack platform for publishing and interacting with blog content.
 
 - User authentication
-- Create, edit and delete posts
+- Create, edit, and delete posts
 - Comments and content management
-- Responsive user interface
+- Responsive React interface
 
-**Stack:** MongoDB · Express · React · Node
+**Tech:** MongoDB · Express · React · Node
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3>03. Voultify</h3>
+### 03. Voultify
 
-File Storage Solution
+**File Storage Solution**
 
 A collaborative file storage application focused on secure file management.
 
@@ -82,23 +100,23 @@ A collaborative file storage application focused on secure file management.
 - Authentication and access control
 - File encryption implementation
 
-**Stack:** MERN · JWT · AES-256
+**Tech:** MERN · JWT · AES-256
 
 </td>
 <td width="50%" valign="top">
 
-<h3>04. Current Exploration</h3>
+### 04. Agentic AI Workflows
 
-Agentic AI & LLM Applications
+**LangGraph & LangChain**
 
-Working with AI frameworks to understand and develop intelligent workflows.
+Exploring intelligent workflows and tool-calling agents.
 
-- LangGraph state management
-- Conditional workflow routing
-- Tool-calling agents
-- ReAct agent architecture
+- Stateful chatbot workflows
+- Conditional routing between nodes
+- ReAct-based agents
+- External tool integration
 
-**Stack:** Python · LangChain · LangGraph
+**Tech:** Python · LangChain · LangGraph
 
 </td>
 </tr>
@@ -106,57 +124,75 @@ Working with AI frameworks to understand and develop intelligent workflows.
 
 ---
 
-### TECHNOLOGIES
+## TECH STACK
 
-**Languages**
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,python,cpp" />
+  <img src="https://skillicons.dev/icons?i=js,python,cpp" alt="JavaScript, Python, C++" />
 </p>
 
-**Frontend Development**
+### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="React, HTML, CSS, Tailwind CSS" />
 </p>
 
-**Backend & Databases**
+### Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Node.js, Express, MongoDB, MySQL" />
 </p>
 
-**AI & Development Tools**
+### AI & Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Git, GitHub, Linux, VS Code" />
 </p>
 
 **AI Frameworks:** LangChain · LangGraph · Google Gemini API
 
 ---
 
-### GITHUB ACTIVITY
+## GITHUB STATISTICS
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ujjawalb01&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjawalb01&layout=compact&hide_border=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ujjawalb01&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjawalb01&layout=compact&hide_border=true&theme=transparent" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjawalb01&hide_border=true&theme=transparent" />
 </p>
 
 ---
 
+## CONTRIBUTION ACTIVITY
+
 <p align="center">
-  <a href="https://github.com/ujjawalb01">
-    <img src="https://img.shields.io/badge/GitHub-ujjawalb01-181717?style=flat-square&logo=github" />
-  </a>
-  <a href="https://linkedin.com/in/ujjawal-sharma-387411218">
-    <img src="https://img.shields.io/badge/LinkedIn-Ujjawal%20Sharma-0A66C2?style=flat-square&logo=linkedin" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujjawalb01&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ujjawalb01&theme=github" width="100%" alt="GitHub Profile Summary" />
+</p>
+
+---
+
+## CONNECT WITH ME
+
+<p align="center">
+  <a href="https://linkedin.com/in/ujjawalsharma01">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ujjawalsharma507@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get%20in%20touch-BB4430?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/ujjawalb01">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
-  <sub>Engineering ideas into working software.</sub>
+  <i>Engineering ideas into working software.</i>
 </p>
